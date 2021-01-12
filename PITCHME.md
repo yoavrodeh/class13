@@ -260,7 +260,7 @@ The documentation is:
 
 ---
 @code[java code-noblend](src/Predicate1.java)
-@[35-46](And now using lambda expressions...)
+@[35-46](Why is it better to check for `null` here, and not let `other.text` throw it?)
 @[48-53]
 
 
